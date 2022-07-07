@@ -76,14 +76,17 @@ The script will also create cleave.txt when no argument is passed which will bec
 ```
 cleave_way=auto
 ```
-## Text File:
+### Text File:
 ```
 base=C:\Users\{name}\Desktop\Ebi
-
+```
+```
 ebi.mkv 01:52 02:46
-
+```
+```
 ebi 2.mp4 00:55 01:26 11:25 16:30 20:00 24:22
-
+```
+```
 ebi_3.mp4 10:35 01:35:00
 ```
 
