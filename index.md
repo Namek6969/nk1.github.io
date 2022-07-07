@@ -16,9 +16,9 @@ Otherwise you can install from below
 <pre>
 Complete Install:                                                                                                        Only exe: 
 </pre>
-[<img align=left alt="alt_text" width="40px" src="https://github.com/Namek6969/nk1.github.io/blob/gh-pages/download-1.png"/>](https://www.google.com/)
+[<img align=left alt="alt_text" width="40px" src="https://github.com/Namek6969/nk1.github.io/blob/gh-pages/download-1.png?raw=true"/>](https://www.google.com/)
 
-[<img align=right alt="alt_text" width="40px" src="https://github.com/Namek6969/nk1.github.io/blob/gh-pages/download-2.png"/>](https://www.google.com/)
+[<img align=right alt="alt_text" width="40px" src="https://github.com/Namek6969/nk1.github.io/blob/gh-pages/download-2.png?raw=true"/>](https://www.google.com/)
 
 <br>
 </br>
