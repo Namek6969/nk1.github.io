@@ -20,7 +20,8 @@ Complete Install:                Only exe:
 
 [<img align=right alt="alt_text" width="40px" src="https://github.com/Namek6969/nk1.github.io/blob/gh-pages/download-2.png?raw=true"/>]([https://www.google.com/](https://github.com/Namek6969/nk1.github.io/releases/download/1.0.0/Cleaver-win64-1.0.0.zip))
 
-
+<br/>
+<br/>
 Also, make sure you have FFmpeg installed.
 You can install it from [here](https://www.ffmpeg.org/download.html)
 
