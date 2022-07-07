@@ -14,16 +14,12 @@ A script using ffmpeg to seamlessly cut videos, making sure that the final outpu
 If you have python installed, you can directly run the script;
 Otherwise you can install from below
 <pre>
-Complete Install:                                                                                                        Only exe: 
+Complete Install:                Only exe: 
 </pre>
 [<img align=left alt="alt_text" width="40px" src="https://github.com/Namek6969/nk1.github.io/blob/gh-pages/download-1.png?raw=true"/>](https://www.google.com/)
 
 [<img align=right alt="alt_text" width="40px" src="https://github.com/Namek6969/nk1.github.io/blob/gh-pages/download-2.png?raw=true"/>](https://www.google.com/)
 
-<br>
-</br>
-<br>
-</br>
 
 Also, make sure you have FFmpeg installed.
 You can install it from [here](https://www.ffmpeg.org/download.html)
