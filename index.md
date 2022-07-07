@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/Namek6969/namk1.github.io/blob/gh-pages/smth.ico?raw=true"></p>
 
-# Capra-Cleaver
+# Cleaver
 A script using ffmpeg to seamlessly cut videos, making sure that the final output has no loss in quality.
 
 
